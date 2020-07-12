@@ -1,4 +1,4 @@
-# TeensySDR_PCB
+# EA7GIB TeensySDR FRONTAL + MSI001 PCB gerbers and build instructions.
 
 PCB TeensySDR Convolution HW sources: [Source link](https://github.com/DD4WH/Teensy-ConvolutionSDR)
 
